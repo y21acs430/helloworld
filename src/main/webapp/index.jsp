@@ -7,8 +7,10 @@
                 margin-top: 50px;
                 margin-left: 500px;
                 margin-right: 500px;
-                border-color:red;
+                border-color:black;
                 border-shadow:9px solid black;
+                background-color: 023047;
+
             }
         </style>
     </head>
@@ -33,13 +35,13 @@
                 </td>
             </tr>
             <tr>
-                <td>Country:</td>
+                <td>Branch:</td>
                 <td>
                     <select name="country">
-                        <option value="India">India</option>
-                        <option value="USA">USA</option>
-                        <option value="UK">UK</option>
-                        <option value="Other">Other</option>
+                        <option value="India">CSE</option>
+                        <option value="USA">IT</option>
+                        <option value="UK">EEE</option>
+                        <option value="Other">ECE</option>
                     </select>
                 </td>
                     </table>
